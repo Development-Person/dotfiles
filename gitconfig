@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ibaemail@gmail.com
+	name = Ibrahim Achkar
